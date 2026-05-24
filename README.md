@@ -2,25 +2,26 @@
 
 ---
 
+# Pool1337
 
-مستودع يحتوي على تمارين Piscine الخاصة بمدرسة 1337 / 42، مع تنظيم واضح للمشاريع والتمارين الخاصة بلغة C و Shell.
-
----
-
-## 🚀 حول المشروع
-
-هذا المستودع تم إنشاؤه بهدف:
-
-* تنظيم تمارين Piscine.
-* تتبع التقدم في التعلم.
-* تطوير التفكير الخوارزمي والمنطقي.
-* تحسين مستوى البرمجة بلغة C.
-* التحضير لمشاريع المدرسة والامتحانات.
-* بناء GitHub Portfolio احترافي.
+A structured repository containing the 1337 / 42 Piscine exercises, organized for C and Shell programming practice, algorithm development, and system-level learning.
 
 ---
 
-## 📂 الهيكلة
+## 🚀 About the Project
+
+This repository was created to:
+
+* Organize Piscine exercises in a clean structure.
+* Track learning progress.
+* Improve algorithmic and logical thinking.
+* Strengthen C programming skills.
+* Prepare for school exams and projects.
+* Build a professional GitHub portfolio.
+
+---
+
+## 📂 Structure
 
 ```bash
 .
@@ -41,76 +42,78 @@
 └── Exam/
 ```
 
+Each folder represents a module from the Piscine curriculum, progressing from basic shell commands to advanced C concepts.
+
 ---
 
-## 🧠 محتوى Piscine
+## 🧠 Piscine Content
 
 ### Shell
 
-| المشروع | المحتوى                        |
-| ------- | ------------------------------ |
-| Shell00 | أساسيات Linux و Terminal       |
-| Shell01 | Permissions, scripts, commands |
+| Project | Description                             |
+| ------- | --------------------------------------- |
+| Shell00 | Basic Linux commands and terminal usage |
+| Shell01 | Permissions, scripts, and command usage |
 
 ---
 
 ### C Modules
 
-| المشروع | المفاهيم الرئيسية           |
-| ------- | --------------------------- |
-| C00     | putchar, loops, basics      |
-| C01     | pointers و arrays           |
-| C02     | strings manipulation        |
-| C03     | string functions            |
-| C04     | atoi, base conversion       |
-| C05     | recursion و math            |
-| C06     | argc / argv                 |
-| C07     | malloc و dynamic allocation |
-| C08     | headers و structures        |
-| C09     | libraries و Makefile        |
+| Project | Key Concepts                         |
+| ------- | ------------------------------------ |
+| C00     | putchar, loops, basic syntax         |
+| C01     | pointers and arrays                  |
+| C02     | string manipulation                  |
+| C03     | string functions                     |
+| C04     | atoi, base conversion                |
+| C05     | recursion and mathematical functions |
+| C06     | argc / argv usage                    |
+| C07     | dynamic memory allocation (malloc)   |
+| C08     | headers and structures               |
+| C09     | libraries and Makefiles              |
 
 ---
 
 ### Rush Projects
 
-| المشروع | الوصف                      |
-| ------- | -------------------------- |
-| Rush00  | أول مشروع جماعي            |
-| Rush01  | Problem solving و teamwork |
+| Project | Description                  |
+| ------- | ---------------------------- |
+| Rush00  | First group project          |
+| Rush01  | Problem solving and teamwork |
 
 ---
 
 ### Exams
 
-تمارين ومحاكاة امتحانات Piscine:
+Practice exams simulating Piscine evaluation:
 
 * exam00
 * exam01
 * exam02
 * exam03
 
-مع التركيز على:
+Focus areas:
 
-* السرعة.
-* فهم الموضوع.
-* احترام Norminette.
-* التفكير تحت الضغط.
-
----
-
-## 📏 القواعد المتبعة
-
-هذا المستودع يحاول احترام:
-
-* Norminette.
-* تنظيم الملفات.
-* كتابة كود واضح وبسيط.
-* منع التسريبات والـ memory leaks.
-* فهم المنطق قبل نسخ الحلول.
+* Speed and accuracy
+* Understanding requirements
+* Norminette compliance
+* Problem-solving under pressure
 
 ---
 
-## ⚙️ طريقة التشغيل
+## 📏 Rules Followed
+
+This repository respects:
+
+* Norminette coding standard
+* Clean file organization
+* Simple and readable code
+* Memory leak prevention
+* Understanding before copying solutions
+
+---
+
+## ⚙️ How to Run
 
 ### Compilation
 
@@ -126,35 +129,34 @@ cc -Wall -Wextra -Werror file.c
 
 ---
 
-## 🛠️ الأدوات المستخدمة
+## 🛠️ Tools Used
 
-* لغة C
-* GCC
-* Vim
-* Git
-* GitHub
-* Linux
-
----
-
-## 🎯 الهدف من المستودع
-
-هذا المشروع ليس فقط لتجميع التمارين، بل لبناء أساس قوي في:
-
-* البرمجة المنخفضة المستوى.
-* حل المشاكل.
-* الخوارزميات.
-* إدارة الذاكرة.
-* العمل تحت الضغط.
-* التحضير لعالم Cybersecurity و Software Engineering.
+* C language
+* GCC compiler
+* Vim editor
+* Git & GitHub
+* Linux environment
 
 ---
 
-## 📌 ملاحظات
+## 🎯 Project Goal
 
-* بعض التمارين قد يتم تحديثها مع الوقت.
-* يتم رفع المشاريع تدريجياً.
-* الهدف هو التعلم الحقيقي وليس فقط إنهاء التمارين.
+This repository is not just a collection of exercises. It is a foundation for:
+
+* Low-level programming
+* Problem solving
+* Algorithms
+* Memory management
+* Working under pressure
+* Preparing for cybersecurity and software engineering careers
+
+---
+
+## 📌 Notes
+
+* Exercises may be updated over time.
+* Projects are uploaded progressively.
+* The goal is real understanding, not just completion.
 
 ---
 
@@ -169,4 +171,5 @@ school: 1337 / 42 Network
 
 ## 📜 License
 
-هذا المشروع مخصص للتعلم والتطوير الذاتي.
+This project is for educational and self-learning purposes only.
+
