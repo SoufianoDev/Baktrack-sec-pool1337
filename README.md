@@ -10,18 +10,6 @@
 ║  ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦  ║
 ╚════════════════════════════════════════════════════════════╝
 </pre>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=🚀+Learning+C+from+Scratch;💻+Shell+Scripting+Master;🧠+Algorithmic+Thinking;🔥+Norminette+Approved)
-
-<img src="https://media.giphy.com/media/6nWhy3ulBL7GSuKrjm/giphy.gif" width="600" alt="coding-animation">
-
-</div>
-
-> 🎯 **Mission:** A structured and continuously evolving repository containing **1337 / 42 Piscine** exercises.  
-> 🧭 **Goal:** Document progression through **C** and **Shell** programming while developing strong fundamentals in systems programming, algorithms, and problem-solving.
-
 ---
 
 ## 🌀 LOADING PROGRESS BAR (ASCII STYLE)
