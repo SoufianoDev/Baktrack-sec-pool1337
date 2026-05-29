@@ -6,7 +6,7 @@
 -------------------------
 
  • Create a function that returns the result of the conversion of the string nbr from a
-   base base_from to a base base_to.\
+   base base_from to a base base_to.
 
  • nbr, base_from, base_to may be not writable.
 
