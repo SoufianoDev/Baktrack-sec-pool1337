@@ -13,7 +13,7 @@ Core concept:
 [▶️ Watch Playlist](https://youtube.com/playlist?list=PLHuW747_x4SnR2CWcIkX2j1__y9dFH5Sj)
 
 🖼️ Preview:
-[![Dynamic Memory Allocation in C](https://img.youtube.com/vi/playlist?list=PLHuW747_x4SnR2CWcIkX2j1__y9dFH5Sj/hqdefault.jpg)](https://youtube.com/playlist?list=PLHuW747_x4SnR2CWcIkX2j1__y9dFH5Sj)
+[![Dynamic Memory Allocation in C](https://img.youtube.com/vi/udfbq4M2Kfc/hqdefault.jpg)](https://youtu.be/udfbq4M2Kfc?si=FtxZ5I0MsRLsEtfl)
 
 ---
 
