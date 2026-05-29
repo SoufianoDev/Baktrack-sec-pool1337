@@ -1,6 +1,5 @@
 <div align="center">
 
-<<<<<<< HEAD
 <img src= "./assets/pool_1337.png"></img>
 =======
 
